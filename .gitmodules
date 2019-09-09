@@ -1,0 +1,3 @@
+[submodule "Blame-theCity-Report-Service"]
+	path = Blame-theCity-Report-Service
+	url = https://github.com/RafaelGomez1/Blame-theCity-Report-Service.git
